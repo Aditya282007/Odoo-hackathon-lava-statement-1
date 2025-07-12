@@ -1,6 +1,6 @@
 Team name = Lava
 
-Problem Statement = Skill Swap PLatform (Problem Statement 1)
+Problem Statement = Skill Swap Platform (Problem Statement 1)
 
 Team member 1 = Nayan Sadariya, nayansadariya84@gmail.com
 
